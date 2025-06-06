@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YourUsername&theme=radical" alt="Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAi&show_icons=true&theme=radical" alt="Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=TarekAi&theme=radical" alt="Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAi&layout=compact&theme=radical" alt="Languages" height="150"/>
 </p>
