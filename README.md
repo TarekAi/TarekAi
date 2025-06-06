@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarekAi&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=TarekAi&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAi&layout=compact&theme=radical)
