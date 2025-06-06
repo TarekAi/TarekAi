@@ -15,7 +15,7 @@
 
 ### 📫 Contact Me
 - ✉️ Email: **t.aitbaha@uiz.ac.ma**
-- 💼 LinkedIn: [tr-aitbaha](https://linkedin.com/in/tr-aitbaha)
+- 💼 LinkedIn: [Tarek AIT BAHA](https://linkedin.com/in/tr-ait-baha)
 
 ---
 
