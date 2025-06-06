@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAi&show_icons=true&theme=radical" alt="Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=TarekAi&theme=radical" alt="Streak" height="150"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAi&layout=compact&theme=radical&repo=open-tutor-ai-CE)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAi&layout=compact&theme=radical" alt="Languages" height="150"/>
-</p>
