@@ -9,7 +9,7 @@
 
 ### 🚀 Current Project
 - 🔭 I’m currently working on [**OpenTutorAI**](https://github.com/open-TutorAi/open-tutor-ai-ce):  
-  An open-source AI tutor designed to adapt to learners’ profiles through advanced personality detection and conversation modeling.
+  An open-source project designed to provide an educational and collaborative AI-powered platform.
 
 ---
 
