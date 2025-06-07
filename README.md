@@ -24,10 +24,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=tarekai&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekai&theme=radical" alt="GitHub Streak" /></td>
+      <td style="border: none; padding: 0 10px 0 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=tarekai&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td style="border: none; padding: 0 0 0 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekai&theme=radical" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
 </p>
