@@ -30,7 +30,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=pr-elhajji&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td style="border: none; padding: 0 0 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekai&theme=radical" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-elhajji&theme=radical" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
