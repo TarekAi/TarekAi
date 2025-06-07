@@ -13,16 +13,10 @@
 
 ---
 
-### 📫 Contact Me
-- ✉️ Email: **t.aitbaha@uiz.ac.ma**
-- 💼 LinkedIn: [Tarek AIT BAHA](https://linkedin.com/in/tr-ait-baha)
-
----
-
 ### 🧰 Tech & Research Interests
 
-- 🤖 AI in Education • Chatbots • Multimodal Learning
-- 🧠 Personality Detection • NLP • Prompt Engineering
+- 🤖 AI in Education • AI Agents • Multimodal Learning
+- 🧠 Personality Detection and Adpation • NLP • Prompt Engineering
 - 🔍 Deep Learning • Human-centered AI • LLMs (OpenAI, Ollama)
 
 ---
