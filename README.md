@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek AIT BAHA</h1>
-<h3 align="center">🎓 Doctor in Computer Science & Artificial Intelligence — specializing in AI for Education</h3>
+<h3 align="center">Doctor in Computer Science and Artificial Intelligence, specialized in Natural Language Processing. His research focuses on the application of AI and Big Data in education, with a particular interest in personalized learning, intelligent tutoring systems, and user modeling.</h3>
 
 <p align="center">
   Passionate about building intelligent, socially-aware systems that personalize learning experiences. My work bridges AI research with real-world educational applications.
