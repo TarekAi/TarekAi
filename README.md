@@ -2,7 +2,7 @@
 <h3 align="center">Doctor in Computer Science and Artificial Intelligence</h3>
 
 <p align="center">
-  Specialized in Natural Language Processing. His research focuses on the application of AI and Big Data in education, with a particular interest in personalized learning, intelligent tutoring systems, and user modeling.
+  Specialized in Natural Language Processing. My research focuses on the application of AI and Big Data in education, with a particular interest in personalized learning, intelligent tutoring systems, and user modeling.
 </p>
 
 ---
