@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarek AIT BAHA</h1>
+<h1 align="center">Hi 👋, I'm Tarek AIT BAHA </h1>
 <h3 align="center">Doctor in Computer Science and Artificial Intelligence</h3>
 
 <p align="center" >
