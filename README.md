@@ -16,8 +16,9 @@
 ### 🧰 Tech & Research Interests
 
 - 🤖 AI in Education • AI Agents • Multimodal Learning
-- 🧠 Personality Detection and Adpation • NLP • Prompt Engineering
-- 🔍 Deep Learning • Human-centered AI • LLMs 
+- 🧠 Personality Detection and Adpation • Human-centered AI
+- 🔍 Natural Language Processing • Prompt Engineering • LLMs
+- 📊 Big Data • Data Processing • Data Visualization
 
 ---
 
