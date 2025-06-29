@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek AIT BAHA</h1>
-<h3 align="center">Doctor in Computer Science and Artificial Intelligence </h3>
+<h3 align="center">Doctor in Computer Science and Artificial Intelligence</h3>
 
 <p align="center" >
   Specialized in Natural Language Processing. My research focuses on the application of AI and Big Data in education, with a particular interest in personalized learning, intelligent tutoring systems, and user modeling.
